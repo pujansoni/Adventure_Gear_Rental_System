@@ -1,6 +1,5 @@
 Free Site License:
 ------------------
-*This text will be italic*
 CC 3.0 All of the site templates we create for WebThemez are licensed under the Creative Commons Attribution 4.0 License, which means you can:
  - You can use our templates for both personal and commercial projects. 
  - You are NOT allowed to remove the back link to WebThemez.com in templates unless you purchased a license. 
