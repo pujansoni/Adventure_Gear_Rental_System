@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: jgoodyea
+Build-Jdk: 1.6.0_21
+Specification-Title: Apache Karaf :: Assemblies :: Features :: Standard
+Specification-Version: 2.2.0
+Specification-Vendor: The Apache Software Foundation
+Implementation-Title: Apache Karaf :: Assemblies :: Features :: Standard
+Implementation-Version: 2.2.0
+Implementation-Vendor-Id: org.apache.karaf.assemblies.features
+Implementation-Vendor: The Apache Software Foundation
+
