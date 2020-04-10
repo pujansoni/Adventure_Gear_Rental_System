@@ -1,0 +1,15 @@
+.navbar-inverse {
+	background-color: white;
+	border-color: white !important;
+}
+.navbar {
+	margin-bottom: 0px !important;
+}
+.navbar-right {
+	margin-right: 20px !important;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus,
+	.navbar-default .navbar-nav>.open>a:hover {
+	color: #555;
+	background-color: #821d1d !important;
+}
