@@ -15,4 +15,8 @@ $(document).ready(function() {
 //			localStorage.setItem("imgSource", $(this));
 //		});
 	}
+	
+	function changeButton(){
+		
+	}
 });

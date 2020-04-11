@@ -29,7 +29,7 @@
 <body>
 	<footer id="footer">
         <div class="container">
-            <div class="row" style="display:none">
+            <div class="row">
                 <div class="col-sm-6">
                     &copy; 2020 Group 25
                 </div>

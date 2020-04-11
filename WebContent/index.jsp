@@ -103,7 +103,7 @@
                                 <img src="images/1.jpg" class="img-responsive image-source" alt="1st gallery Thumb">
                                 <div class="image-overlay"></div>
                                 <a href="images/1.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
-                                <a href="kayak.jsp" onclick="viewClick(this); return false;" class="gallery-link"><i class="fa fa-link"></i></a>
+                                <a href="kayak.jsp" class="gallery-link"><i class="fa fa-link"></i></a>
                             </div>
                             <div class="gallery-details">
                             	<div class="editContent">
@@ -121,7 +121,7 @@
                                 <img src="images/2.jpg" class="img-responsive image-source" alt="2nd gallery Thumb">
                                 <div class="image-overlay"></div>
                                 <a href="images/2.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
-                                <a href="kayak.jsp" onclick="viewClick(); return false;" class="gallery-link"><i class="fa fa-link"></i></a>
+                                <a href="kayak.jsp" class="gallery-link"><i class="fa fa-link"></i></a>
                             </div>
                             <div class="gallery-details">
                             	<div class="editContent">
@@ -139,7 +139,7 @@
                                 <img src="images/Untitled2.jpg" class="img-responsive image-source" alt="3rd gallery Thumb">
                                 <div class="image-overlay"></div>
                                 <a href="images/Untitled2.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
-                                <a href="kayak.jsp" onclick="viewClick(); return false;" class="gallery-link"><i class="fa fa-link"></i></a>
+                                <a href="kayak.jsp" class="gallery-link"><i class="fa fa-link"></i></a>
                             </div>
                             <div class="gallery-details">
                             	<div class="editContent">
@@ -158,7 +158,7 @@
                                 <img src="images/4.jpg" class="img-responsive image-source" alt="4th gallery Thumb">
                                 <div class="image-overlay"></div>
                                 <a href="images/4.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
-                                <a href="kayak.jsp" onclick="viewClick(); return false;" class="gallery-link"><i class="fa fa-link"></i></a>
+                                <a href="kayak.jsp" class="gallery-link"><i class="fa fa-link"></i></a>
                             </div>
                             <div class="gallery-details">
                             	<div class="editContent">
@@ -177,7 +177,7 @@
                                 <img src="images/Untitled9.jpg" class="img-responsive image-source" alt="5th gallery Thumb">
                                 <div class="image-overlay"></div>
                                 <a href="images/Untitled9.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
-                                <a href="kayak.jsp" onclick="viewClick(); return false;" class="gallery-link"><i class="fa fa-link"></i></a>
+                                <a href="kayak.jsp" class="gallery-link"><i class="fa fa-link"></i></a>
                             </div>
                             <div class="gallery-details">
                             	<div class="editContent">
@@ -196,7 +196,7 @@
                                 <img src="images/5.jpg" class="img-responsive image-source" alt="6th gallery Thumb">
                                 <div class="image-overlay"></div>
                                 <a href="images/5.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
-                                <a href="kayak.jsp" onclick="viewClick(); return false;" class="gallery-link"><i class="fa fa-link"></i></a>
+                                <a href="kayak.jsp" class="gallery-link"><i class="fa fa-link"></i></a>
                             </div>
                             <div class="gallery-details">
                             	<div class="editContent">

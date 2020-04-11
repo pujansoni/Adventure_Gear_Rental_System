@@ -81,10 +81,30 @@
 	        <div class="row">
             	<div class="features">
             		<div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
-	                    <!-- Weight Capacity: 350-400lbs(Approx 4-people); Length: 13 feet; Width: 34";  -->
+	            		<h4 class="media-heading">Length			: 13 feet</h4>
+	            		<h4 class="media-heading">Width				: 34"</h4>
+	            		<h4 class="media-heading">Weight Capacity 	: 200-250lbs(Approx 2-people)</h4>
 	                </div>
-	                <div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
-	                    
+            	</div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="services" style="padding-top:0;">
+		<div class="container">
+	    	<div class="section-header">
+	        	<h2 class="section-title text-center wow fadeInDown">Details</h2>
+	        </div>
+	        <div class="row">
+            	<div class="features">
+            		<div class="col-md-9 col-sm-9 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
+						<h4 class="media-heading">Status : Available</h4>
+						<h4 class="media-heading">Availability: 2020-04-01 to 2020-05-15</h4>
+	            		<h4 class="media-heading">Location : <a href="https://goo.gl/maps/e5ht1JFbq6fTz8w27">River Canard Canoe</a></h4>
+	            		<h4 class="media-heading">Pricing : $15/hr</h4>
+	            		<div class="wrapper text-center">
+		            		<button type="submit" class="btn btn-primary seller-btn" onclick="changeButton()" style="position:absolute;margin:8px;">Notify Seller (If you are interested)</button>
+	            		</div>
 	                </div>
             	</div>
             </div>
