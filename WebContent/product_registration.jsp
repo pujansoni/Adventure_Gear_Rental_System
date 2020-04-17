@@ -1,12 +1,17 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>
 <html>
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Product Registration</title>
-  	<link rel="stylesheet" href="../Css and Js/bootstrap.min.css">
-  	<script type="text/javascript" src="../Css and Js/jquery.min.js"></script>
+  	<link rel="stylesheet" href="CssandJs/custom.css">
+    
+	<script src="CssandJs/jquery.min.js"></script>
+ 	<script src="CssandJs/bootstrap.min.js"></script>
+ 	<script src="CssandJs/jquery.validate.min.js"></script>
+    <script src="CssandJs/form-validation.js"></script>
   	
 </head>
 <body >
@@ -16,7 +21,7 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<h3 class="text-center">Enter Kayak details</h3>		
-					<form   method="post" action="" style="font-size: 1.20em;font-family:'Open Sans',Tahoma,Arial,helvetica,sans-serif'">
+					<form   method="post" action="" id="product_registration" style="font-size: 1.20em;font-family:'Open Sans',Tahoma,Arial,helvetica,sans-serif'">
 						<div class="row mt-1">
 							<div class="form-group input-group-sm col-md-12">
 								<label>Kayak name</label>
@@ -146,17 +151,11 @@
 										<label class="custom-control-label" for="CustomVal1">UnAvailable </label>
 									</div>	
 								</div>
-								
 							</div>
-
-							<!-- ------------------------------ -->
-							
 						</div>
-
-			        			<div class="form-group col-sm-2 col-sm-offset-2">
-				            		<button type="submit" class="btn btn-primary btn-block input-lg">Register</button>
-			        			</div>
-		        		
+	        			<div class="form-group col-sm-2 col-sm-offset-2">
+		            		<button type="submit" class="btn btn-primary btn-block input-lg">Register</button>
+	        			</div>
 					</form>
 				</div>
 			</div>
